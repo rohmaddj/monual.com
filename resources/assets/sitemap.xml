@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://monual.com/index.html</loc>
+    <lastmod>2018-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://monual.com/images/google-play.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/samsung.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/iphone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/petr-sevcovic-594807-unsplash.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/rod-long-656468-unsplash.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/gambar%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/logo-monual.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>

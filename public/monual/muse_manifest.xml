@@ -1,0 +1,112 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="monual.com" resolutions="1x" timestamp="1535636625491">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4189704179" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="google-play.svg" crc="472791702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google play_poster_.png" crc="3820088768" ref="index"/>
+    <file name="samsung.png" crc="4121618976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone.png" crc="368766846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1030-10.png" crc="3769118606" ref="index"/>
+    <file name="u1099-4.png" crc="360734742" ref="index"/>
+    <file name="u1916-4.png" crc="143134428" ref="index"/>
+    <file name="u1919-4.png" crc="501508065" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road.jpg" crc="4117966820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1110-4.png" crc="360734742" ref="index"/>
+    <file name="u1936-4.png" crc="360734742" ref="index"/>
+    <file name="u1962-4.png" crc="360734742" ref="index"/>
+    <file name="petr-sevcovic-594807-unsplash.jpg" crc="4052190811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u997-4.png" crc="7284392" ref="index"/>
+    <file name="rod-long-656468-unsplash.jpg" crc="4221192662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gambar 1.png" crc="432367754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-monual.svg" crc="319339046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo monual_poster_.png" crc="273130272" ref="index"/>
+    <file name="u225.png" crc="448208647" ref="index"/>
+    <file name="u225-r.png" crc="79430018" ref="index"/>
+    <file name="u225-a.png" crc="79430018" ref="index"/>
+    <file name="u233.png" crc="533496795" ref="index"/>
+    <file name="u233-r.png" crc="102942746" ref="index"/>
+    <file name="u233-a.png" crc="102942746" ref="index"/>
+    <file name="u203.png" crc="3773224370" ref="index"/>
+    <file name="u203-r.png" crc="123620600" ref="index"/>
+    <file name="u203-a.png" crc="123620600" ref="index"/>
+    <file name="u221.png" crc="3971190749" ref="index"/>
+    <file name="u221-r.png" crc="3995401092" ref="index"/>
+    <file name="u221-a.png" crc="3995401092" ref="index"/>
+  </folder>
+  <file name="index.html" crc="495044615" seo="true" mt="1535636603066" redirect="true"/>
+</manifest>
