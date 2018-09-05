@@ -243,7 +243,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.secure_assets = {"r
 
         <div class="customer-logos" style="width:910px">
           @foreach($partners as $partner)
-          <div class="slide"><img src="{{ secure_asset('uploads/partner-image/'.$partner['image']) }}" width="100px" height="100px"/></div>
+          <div class="slide"><img src="{{ secure_asset('uploads/partner-image/'.$partner['image']) }}" style="max-width:100px" width="auto" height="100px"/></div>
           @endforeach
         </div>
     		<!-- PARTNER BOX END -->
