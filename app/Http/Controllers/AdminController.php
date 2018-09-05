@@ -95,6 +95,6 @@ class AdminController extends Controller
         $partner = Partner::find($id);
         $partner->delete();
 
-        return redirect('admin');
+        return redirect('admiin');
     }
 }
