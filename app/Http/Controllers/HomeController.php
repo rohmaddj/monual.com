@@ -16,6 +16,6 @@ class HomeController extends Controller
     {
         $partnerData = Partner::orderBy('id', 'desc')->get();
 
-        return view('monual')->with('partners', $partnerData);
+        return view('newmonual')->with('partners', $partnerData);
     }
 }

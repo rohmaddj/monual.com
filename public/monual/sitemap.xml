@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://monual.com/index.html</loc>
-    <lastmod>2018-08-30</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,16 +18,31 @@
       <image:loc>http://monual.com/images/road.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://monual.com/images/petr-sevcovic-594807-unsplash.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://monual.com/images/rod-long-656468-unsplash.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://monual.com/images/gambar%201.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://monual.com/images/logo-monual.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/road93x70.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/gambar%201320x400.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/road81x61.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/gambar%201216x271.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/road43x32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/gambar%201230x289.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://monual.com/images/road72x63.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
