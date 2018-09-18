@@ -319,9 +319,39 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <div class="clearfix"></div>
 
         <div class="customer-logos" style="width:960px">
-          @foreach($partners as $partner)
-          <div class="slide"><img src="{{ asset('uploads/partner-image/'.$partner['image']) }}" style="max-width:100px" width="auto" height="100px"/></div>
+          @php
+            $img = [];
+            $r = 2;
+            $t = 0;
+            $y = 2;
+          @endphp
+
+          @foreach($partners as $key => $partner)
+            @php
+              $img[] = $partner['image'];
+              $param = 0;
+            @endphp
           @endforeach
+
+          @for($q = $t; $q < count($img); $q++)
+          <div class="slide">
+            <ul>
+              @for($i = $t; $i <= $y; $i++)
+                @if($i < count($img))
+                  <li style="padding: 5px"><img src="{{ asset('uploads/partner-image/'. $img[$i]) }}" style="max-width:100px" width="auto" height="100px"/></li>
+                @elseif($i > count($img))
+                  <li></li>
+                @endif
+              @endfor
+              @php
+                $t = $t+$r;
+                $y = $y+2;
+              @endphp
+
+            <!-- <div class="slide"><img src="{{ asset('uploads/partner-image/'.$partner['image']) }}" style="max-width:100px" width="auto" height="100px"/></div> -->
+            </ul>
+          </div>
+          @endfor
         </div>
         <!-- PARTNER BOX END -->
         <div class="clearfix"></div>
@@ -605,12 +635,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
           .slick-prev:before, .slick-next:before { font-family: "slick"; font-size: 100px; line-height: 1; color: #ccc; opacity: 0.75; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-          .slick-prev { left: -50px; top: -27px;  }
+          .slick-prev { left: -50px; top: 94px;  }
           [dir="rtl"] .slick-prev { left: auto; right: -40px; top: -40px; }
           .slick-prev:before { content: "‹"; }
           [dir="rtl"] .slick-prev:before { content: "›"; }
 
-          .slick-next { right: -50px; top: -27px; }
+          .slick-next { right: -50px; top: 94px; }
           [dir="rtl"] .slick-next { left: -10px; top: 70px; right: auto; }
           .slick-next:before { content: "›"; }
           [dir="rtl"] .slick-next:before { content: "‹"; }

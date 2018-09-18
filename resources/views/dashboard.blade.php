@@ -107,9 +107,9 @@
             <form>
               <label>Partner Logo</label>
               <div class="input-group mb-3">
-                <div class="input-group-prepend">
+                <!-- <div class="input-group-prepend">
                   <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
-                </div>
+                </div> -->
                 <div class="custom-file">
                   <input type="file" class="custom-file-input" id="filebroh">
                   <label class="custom-file-label" id="namebroh">Choose file</label>
